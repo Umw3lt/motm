@@ -7,6 +7,7 @@ This is a project to convert Charles Hampden-Turner's 1981 **Maps of the Mind** 
 - 3D models, usable in data visualisation, VR, and AR 
 
 Perhaps the most illuminating and extraordinary book about the human mind ever made (in modern times) was published in 1981: Charles Hampden-Turner's **Maps of the Mind**.
+  
 
 ![](images/motm_cover.jpg)
 
