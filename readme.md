@@ -1,5 +1,5 @@
 
-# MoTM
+# Maps of the Mind II
 
 This is a project to convert Charles Hampden-Turner's 1981 **Maps of the Mind** into:
 
