@@ -4,7 +4,7 @@
 This is a project to convert Charles Hampden-Turner's 1981 **Maps of the Mind** into:
 
 - data models predicated on personal data, usable over personal data vaults, such as [Solid](https://solidproject.org) 
-- 3D models, usable in data visualisation, VR, and AR 
+- 3D models, usable in data visualisation, VR, and AR ([Psychonauts](https://en.wikipedia.org/wiki/Psychonauts) for adults, if you will) 
 
 Perhaps the most illuminating and extraordinary book about the human mind ever made (in modern times) was published in 1981: Charles Hampden-Turner's **Maps of the Mind**.
 
